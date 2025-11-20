@@ -46,6 +46,7 @@ public class MyCalc {
 		System.out.println("Div is :"+calc.div(20, 10));
 		System.out.println("Mod is :"+calc.mod(20, 10));
 		System.out.println("This is Master Barnch");
+				System.out.println("This is Master Barnch");
 		calc.show();
 		calc.demo();
 		calc.hello();
