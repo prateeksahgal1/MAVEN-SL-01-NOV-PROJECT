@@ -25,7 +25,7 @@ public class MyCalc {
 	}
 	public void show()
 	{
-		System.out.println("Hello SimpliLearn from prateek!!!!");
+		System.out.println("Hello SimpliLearn from prateek24-11-2025!!!!");
 	}
 	public void demo()
 	{
