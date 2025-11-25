@@ -33,7 +33,7 @@ public class MyCalc {
 	}
 	public void hello()
 	{
-		System.out.println("This is Hello!");
+		System.out.println("This is Hello world!");
 	}
 	
 	
@@ -46,7 +46,7 @@ public class MyCalc {
 		System.out.println("Div is :"+calc.div(20, 10));
 		System.out.println("Mod is :"+calc.mod(20, 10));
 		System.out.println("This is Master Barnch");
-				System.out.println("This is Master Barnch");
+				System.out.println("This is additional Barnch");
 		calc.show();
 		calc.demo();
 		calc.hello();
